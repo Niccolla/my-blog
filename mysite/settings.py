@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-#tu sei scemo
+#tu sei scemo sempre di più
 
 
 # Application definition
