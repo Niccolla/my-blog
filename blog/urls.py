@@ -1,6 +1,6 @@
 from django.conf.urls import url
-from . import views
+from .views import views
 
-urlpatterns = [    
+urlpatterns = [
     url(r'^$', views.post_list, name='post_list'),
 ]
